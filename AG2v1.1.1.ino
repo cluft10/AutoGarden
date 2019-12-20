@@ -97,7 +97,7 @@ void screen1() {
 
   //Check if watering is needed
   if (m < 80){
-  //pumpWater();  
+  pumpWater();  
   }
 }
 
