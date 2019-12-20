@@ -7,7 +7,7 @@ The AG1 System monitors the following:
     -Humidity - DHT11
     -Soil Moisture - SEN13637
     
-AG2 (v.1.1, last updated 12/19/19) - Also known as ArduinH2O, the AG2 utilizes a Arduino Nano to control a +5V DC water pump and standard airline tubing to self-water a given plant when the moisture level in the soil drops below 80%.
+AG2 (v.1.1, last updated 12/20/19) - Also known as ArduinH2O, the AG2 utilizes a Arduino Nano to control a +5V DC water pump and standard airline tubing to self-water a given plant when the moisture level in the soil drops below 80%.
 The AG2 System monitors the following:
     -Temperature - DHT11/BMP180
     -Humidity - DHT11
